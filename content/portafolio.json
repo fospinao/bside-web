@@ -1,0 +1,20 @@
+[
+  {
+    "tipo": "foto",
+    "titulo": "Activación Honda x Garnier Fructis",
+    "categoria": "Brands",
+    "imagen": "assets/portafolio/honda-activacion-01.jpg"
+  },
+  {
+    "tipo": "foto",
+    "titulo": "HondaxPAE — Evento en bosque",
+    "categoria": "Events",
+    "imagen": "assets/portafolio/hondaxpae-evento-01.jpg"
+  },
+  {
+    "tipo": "foto",
+    "titulo": "Wingfoil — Sesión Calima",
+    "categoria": "Photography",
+    "imagen": "assets/portafolio/calima-wingfoil-01.jpg"
+  }
+]
