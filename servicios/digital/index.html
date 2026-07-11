@@ -51,7 +51,7 @@
   .wrap{max-width:var(--maxw);margin:0 auto;padding:0 32px}
   .eyebrow{font-family:var(--display);font-size:.72rem;font-weight:500;text-transform:uppercase;letter-spacing:.28em;color:var(--eyebrow)}
   header{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(14,14,15,.78);backdrop-filter:blur(12px);border-bottom:1px solid var(--linea)}
-  nav{display:flex;align-items:center;justify-content:space-between;height:74px}
+  header nav{display:flex;align-items:center;justify-content:space-between;height:74px}
   .brand img{height:26px}
   .menu{display:flex;gap:38px;align-items:center}
   .menu a{font-family:var(--display);font-size:.82rem;font-weight:500;text-transform:uppercase;letter-spacing:.12em;color:var(--g25);transition:color .25s}
@@ -84,7 +84,7 @@
   .lightbox-frame img{max-width:90vw;max-height:86vh;object-fit:contain}
   .lightbox-frame.is-video{width:min(1100px,92vw);aspect-ratio:16/9}
   .lightbox-frame.is-video iframe{width:100%;height:100%}
-  .tracknav{display:grid;grid-template-columns:1fr 1fr;border-top:1px solid var(--linea)}
+  .tracknav{display:grid;height:auto;background:var(--negro);position:relative;grid-template-columns:1fr 1fr;border-top:1px solid var(--linea)}
   .tracknav a{padding:44px 32px;transition:background .25s}
   .tracknav a:hover{background:var(--negro-2)}
   .tracknav .lbl{display:block;font-family:var(--display);font-size:.68rem;letter-spacing:.22em;text-transform:uppercase;color:var(--g50);margin-bottom:8px}
