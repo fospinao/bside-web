@@ -1,6 +1,12 @@
 [
   {
     "tipo": "video",
+    "youtubeId": "bUTFp54x9s4",
+    "titulo": "adidas — Video de marca",
+    "categoria": "Brands"
+  },
+  {
+    "tipo": "video",
     "formato": "vertical",
     "youtubeId": "V_DVz-YXXYs",
     "titulo": "Wild & Pacific — Campaña",
@@ -26,6 +32,12 @@
     "youtubeId": "xlAeHDVrWA8",
     "titulo": "Fiber — Campaña de redes",
     "categoria": "Digital"
+  },
+  {
+    "tipo": "video",
+    "youtubeId": "-AWsTjSfN7s",
+    "titulo": "Bary — Video de producto",
+    "categoria": "Brands"
   },
   {
     "tipo": "video",
