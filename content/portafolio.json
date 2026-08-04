@@ -1,5 +1,54 @@
 [
   {
+    "tipo": "video",
+    "formato": "vertical",
+    "youtubeId": "V_DVz-YXXYs",
+    "titulo": "Wild & Pacific — Campaña",
+    "categoria": "Brands"
+  },
+  {
+    "tipo": "video",
+    "formato": "vertical",
+    "youtubeId": "V2rk3SkqM_s",
+    "titulo": "Huawei — Behind the scenes",
+    "categoria": "Stories"
+  },
+  {
+    "tipo": "video",
+    "formato": "vertical",
+    "youtubeId": "AT-2yIIXNuU",
+    "titulo": "Simple — Campaña",
+    "categoria": "Brands"
+  },
+  {
+    "tipo": "video",
+    "formato": "vertical",
+    "youtubeId": "xlAeHDVrWA8",
+    "titulo": "Fiber — Campaña de redes",
+    "categoria": "Digital"
+  },
+  {
+    "tipo": "video",
+    "formato": "vertical",
+    "youtubeId": "PyQbL65zcz4",
+    "titulo": "OndadeMar — E-commerce",
+    "categoria": "Digital"
+  },
+  {
+    "tipo": "video",
+    "formato": "vertical",
+    "youtubeId": "JVTwI1Oztik",
+    "titulo": "Elaya — Video de producto",
+    "categoria": "Brands"
+  },
+  {
+    "tipo": "video",
+    "formato": "vertical",
+    "youtubeId": "gN5Zh9UXHis",
+    "titulo": "Ogmyvit Limonada — Video de producto",
+    "categoria": "Brands"
+  },
+  {
     "tipo": "foto",
     "titulo": "Activación Honda x Garnier Fructis",
     "categoria": "Brands",
