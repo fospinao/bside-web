@@ -665,7 +665,7 @@
 
     function openVideo(youtubeId, vertical){
       frame.className = 'lightbox-frame is-video' + (vertical ? ' is-vertical' : '');
-      frame.innerHTML = '<iframe src="https://www.youtube.com/embed/' + youtubeId + '?autoplay=1&rel=0" title="Video" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>';
+      frame.innerHTML = '<iframe src="https://www.youtube.com/embed/' + youtubeId + '?autoplay=1&rel=0&vq=hd1080" title="Video" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>';
       lightbox.classList.add('open');
     }
     function openPhoto(src, alt){
